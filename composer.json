@@ -1,0 +1,16 @@
+{
+    "name": "prodres/parcelsearch",
+    "description": "Laposte Parcel Search Service",
+    "type": "library",
+    "require": {
+        "guzzle/http": "^3.0.0",
+        "omnipay/paypal": "^3.0"
+    },
+    "authors": [
+        {
+            "name": "Emmanuel Olabiyi",
+            "email": "courseunit42@gmail.com"
+        }
+    ],
+    "minimum-stability": "beta"
+}
